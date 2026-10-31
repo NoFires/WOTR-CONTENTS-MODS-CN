@@ -24,8 +24,9 @@
   - [前置MOD](#前置MOD)
   - [汉化文件及其他说明](#汉化文件及其他说明)
   - [MOD外挂汉化工具QuickLocalization](#MOD外挂汉化工具QuickLocalization)
+- [功能MOD](#功能MOD)
 - [MOD列表](#MOD列表)
-  - [附录：功能MOD索引](#功能MOD索引)
+  
 ------------------------------------------- 
 
 ## 基础知识
@@ -114,8 +115,25 @@
 本文档会不定期更新补充一些汉化
 
 -------------------------------------------
-## MOD列表
+## 功能MOD
++ [ToyBox](https://github.com/xADDBx/ToyBox-Wrath) :v::v::v:应该不用介绍？
++ [ModTag](https://github.com/YLMstring/ModTag) mod标记（建议换用ModTagEx）
++ [ModTagEx](https://github.com/alterasc/ModTagEx) :v::v::v:直接标记Mod内容的来源Mod
++ [RespecMod](https://github.com/BarleyFlour/RespecMod) :v::v::v:洗点MOD（允许更自由洗点，自定义初始点数等）
++ [BubblesBuffs](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/195) :v::v::v:自动BUFF
++ [Performance Fixes](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/797):v::v::v:加快Mod载入速度
++ [Performance Improve](https://github.com/NoFires/PerformanceImprove):v::v::v:优化游戏性能
++ [NWN2QuickCast](https://github.com/thehambeard/NWN2QuickCast):v::v:类似无冬之夜2的快速施法菜单
++ [BubbleTweaks](https://github.com/factubsio/BubbleTweaks) :v:选项调节（调节动画速度等）
++ [MoreBulkSell](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/163) :v:强化自动出售（一键出售支持更多物品）
++ [SpellPouch](https://github.com/Truinto/SpellPouch) :v:图标合一（可以将多个能力合为一个层叠图标便于使用）
++ [FamiliarPlus](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/192) :v::v:宠物加强（物品小宠物不召唤出来能力也生效）
++ [PuzzleSkip](https://github.com/Balkoth-dev/PuzzleSkip) 跳过部分解谜
++ [CombatLogDCBreakdown](https://github.com/alterasc/CombatLogDCBreakdown) :v::v::v:在战斗日志中更详细展示豁免难度DC来源
+
+
 -------------------------------------------
+## MOD列表
 
 |  MOD   |  内容简介 |  中文  |  UMM   |  个人推荐  |  内容量  |  修改  |  最新版状况 |
 |  ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  |
@@ -5261,21 +5279,3 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
   	<tr><td>转轮枪<br>Revolver</td>
 		<td>先进单手火器，转轮弹巢包含六个弹仓，开火后自动旋转准备下一发。</td>
 </table>   
--------------------------------------------
-
-### 功能MOD索引
-+ [ToyBox](https://github.com/xADDBx/ToyBox-Wrath) :v::v::v:应该不用介绍？
-+ [ModTag](https://github.com/YLMstring/ModTag) mod标记（建议换用ModTagEx）
-+ [ModTagEx](https://github.com/alterasc/ModTagEx) :v::v::v:直接标记Mod内容的来源Mod
-+ [RespecMod](https://github.com/BarleyFlour/RespecMod) :v::v::v:洗点MOD（允许更自由洗点，自定义初始点数等）
-+ [BubblesBuffs](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/195) :v::v::v:自动BUFF
-+ [Performance Fixes](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/797):v::v::v:加快Mod载入速度
-+ [NWN2QuickCast](https://github.com/thehambeard/NWN2QuickCast):v::v:类似无冬之夜2的快速施法菜单
-+ [BubbleTweaks](https://github.com/factubsio/BubbleTweaks) :v:选项调节（调节动画速度等）
-+ [MoreBulkSell](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/163) :v:强化自动出售（一键出售支持更多物品）
-+ [SpellPouch](https://github.com/Truinto/SpellPouch) :v:图标合一（可以将多个能力合为一个层叠图标便于使用）
-+ [FamiliarPlus](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/192) :v::v:宠物加强（物品小宠物不召唤出来能力也生效）
-+ [PuzzleSkip](https://github.com/Balkoth-dev/PuzzleSkip) 跳过部分解谜
-+ [CombatLogDCBreakdown](https://github.com/alterasc/CombatLogDCBreakdown) :v::v::v:在战斗日志中更详细展示豁免难度DC来源
-
-
